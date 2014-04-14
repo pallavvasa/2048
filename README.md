@@ -3,7 +3,7 @@
 
 Let your browser solve 2048 for you!
 
-Open the webpage http://gabrielecirulli.github.io/2048/
+Open the webpage http://gabrielecirulli.github.io/2048/ (in chrome only!)
 
 On the adress bar type:  javascript:
 
